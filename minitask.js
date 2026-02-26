@@ -52,8 +52,6 @@ let bol = 0
 let obj = 0
 let arr = 0
 
-console
-
 for (let i = 0; i < dataCampuran.length; i++) {
 
   if (typeof dataCampuran[i]==="string") {
